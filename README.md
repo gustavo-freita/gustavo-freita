@@ -3,7 +3,6 @@
 
 - 🌱 Atualmente estou na faculdade cursando Ciência da Computação. 
 - 🌱 Atualmente fazendo um Bootcamp de Ciência de Dados.
-- 👯 Procuro me tornar um desenvolvedor Back-End.
 
 ##
 
