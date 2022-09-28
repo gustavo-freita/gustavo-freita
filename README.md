@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Gustavo 👋😀
 
 
-- 🌱 Atualmente estou estudando 
-- 👯 Procuro me tornar um desenvolvedor Back-End
+- 🌱 Atualmente estou na faculdade cursando Ciência da Computação. 
+- 🌱 Atualmente fazendo um Bootcamp de Ciência de Dados.
+- 👯 Procuro me tornar um desenvolvedor Back-End.
 
 ##
 
