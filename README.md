@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Gustavo 👋😀
 
 
-- 🌱 Atualmente estou na faculdade cursando Ciência da Computação. 
-- 🌱 Atualmente fazendo um Bootcamp de Ciência de Dados.
+- 🌱 Atualmente estou na faculdade cursando Ciência da Computação.
 
 ##
 
