@@ -5,10 +5,14 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/gustavo-freita">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavo-freita&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-freita&layout=compact&langs_count=7&theme=solarized-dark"/>
+
+<div align='center'>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavo-freita&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavo-freita&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+  
+<div align='center'>
+<a height="140em" href="https://github.com/gustavo-freita"><img src="https://github-readme-streak-stats.herokuapp.com?user=gustavo-freita&theme=blue-green" /></a>
 </div>
 
  <div style="display: inline_block"><br>
@@ -26,9 +30,4 @@
 <div>
   <a href = "gustavos.freitas@uni9.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-freitas-a85713120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
- 
-<div align='center'>
-<a height="140em" href="https://github.com/gustavo-freita"><img src="https://github-readme-streak-stats.herokuapp.com?user=gustavo-freita&theme=solarized-dark" /></a>
 </div>
